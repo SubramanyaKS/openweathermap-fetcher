@@ -1,5 +1,5 @@
 {
-  "name": "openweathermap-wrapper",
+  "name": "openweathermap-fetcher",
   "version": "1.0.0",
   "main": "dist/index.js",
   "types": "dist/types/index.d.ts",
