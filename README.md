@@ -1,6 +1,15 @@
 # Openweathermap-fetcher
 A fetcher for openweathermap api.Currently in initial stage.
 
+## Prerequisite
+
+To use this package API key of openweathermap is needed. To get this you need to 
+1. Go to [openweathermap](https://openweathermap.org/) website.
+2. Create an free account.
+3. Login wto your account and get the API Key.
+
+currently tested on free account openweather API.
+
 ## Installation
 
 you can install this package using below npm command
@@ -36,6 +45,14 @@ async function run() {
   run();
 
 ```
+
+## Method
+
+1. ```js fetchWeatherDataByCityName(cityName:string)```
+The method will fetch the data by taking cityname as an argument and returns weather data.
+
+2. ```js fetchWeatherDataByCoordinates(latitude:string,longitude:string)```
+This method will fetch the data by taking longitude and latitude as an argument and returns weather data.
 
 ## Contribution
 

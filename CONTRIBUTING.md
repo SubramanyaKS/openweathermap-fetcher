@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-Welcome to openweathermap-wrapper package! We're thrilled that you'd like to contribute to our project. Before you get started, please take a moment to review our guidelines.
+Welcome to openweathermap-fetcher package! We're thrilled that you'd like to contribute to our project. Before you get started, please take a moment to review our guidelines.
 
 <!-- ## Code of Conduct
 
@@ -9,24 +9,24 @@ Please read and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) to foster an
 ## How Can You Contribute?
 
 1. **Reporting Bugs:**
-   - If you encounter a bug, please open an [issue](https://github.com/SubramanyaKS/openweathermap-wrapper/issues) and provide detailed information about the problem.
+   - If you encounter a bug, please open an [issue](https://github.com/SubramanyaKS/openweathermap-fetcher/issues) and provide detailed information about the problem.
 
 2. **Feature Requests:**
-   - Feel free to propose new features or improvements by opening an [issue](https://github.com/SubramanyaKS/openweathermap-wrapper/issues).
+   - Feel free to propose new features or improvements by opening an [issue](https://github.com/SubramanyaKS/openweathermap-fetcher/issues).
 
 3. **Pull Requests:**
-   - Contributions are welcome! If you have a bug fix or a new feature, please submit a [pull request](https://github.com/SubramanyaKS/openweathermap-wrapper/pulls).
+   - Contributions are welcome! If you have a bug fix or a new feature, please submit a [pull request](https://github.com/SubramanyaKS/openweathermap-fetcher/pulls).
    - Ensure that your code follows our coding standards and conventions.
 
 ## Getting Started
 
 1. **Fork the Repository:**
-   - Fork the openweathermap-wrapper repository to your GitHub account.
+   - Fork the openweathermap-fetcher repository to your GitHub account.
 
 2. **Clone the Repository:**
    - Clone your forked repository to your local machine.
      ```bash
-     git clone https://github.com/SubramanyaKS/openweathermap-wrapper.git
+     git clone https://github.com/SubramanyaKS/openweathermap-fetcher.git
      ```
 
 3. **Create a Branch:**
@@ -38,7 +38,7 @@ Please read and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) to foster an
 4. **Install Dependencies:**
    - Navigate to the project directory and install the dependencies.
      ```bash
-     cd openweathermap-wrapper
+     cd openweathermap-fetcher
      npm install
      ```
 
@@ -74,6 +74,6 @@ Please read and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) to foster an
 
 ## Thank You
 
-Thank you for contributing to openweathermap-wrapper! Your efforts help make our project better.
+Thank you for contributing to openweathermap-fetcher! Your efforts help make our project better.
 
 Happy Coding!
