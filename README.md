@@ -1,24 +1,24 @@
-# Openweathermap-wrapper
-A wrapper for openweathermap api.Currently in initial stage.
+# Openweathermap-fetcher
+A fetcher for openweathermap api.Currently in initial stage.
 
 ## Installation
 
 you can install this package using below npm command
 
 ```sh
-npm install openweathermap-wrapper
+npm install openweathermap-fetcher
 ```
 or
 
 ```sh
-yarn add openweathermap-wrapper
+yarn add openweathermap-fetcher
 ```
 
 ## Usage
 
 ```js
 
-import { OpenWeatherMap } from 'openweathermap-wrapper';
+import { OpenWeatherMap } from 'openweathermap-fetcher';
 
 const apiKey='your_api_key';
 
@@ -39,7 +39,7 @@ async function run() {
 
 ## Contribution
 
-We welcome contributions! If you'd like to contribute to openweathermap-wrapper, please follow our [Contribution Guidelines](https://github.com/SubramanyaKS/openweathermap-wrapper/blob/main/CONTRIBUTING.md).
+We welcome contributions! If you'd like to contribute to openweathermap-wrapper, please follow our [Contribution Guidelines](https://github.com/SubramanyaKS/openweathermap-fetcher/blob/main/CONTRIBUTING.md).
 
 ## Author
 [Subramanya KS](https://github.com/SubramanyaKS)

@@ -7,7 +7,14 @@
   "scripts": {
     "build": "tsc"
   },
-  "keywords": ["openweathermap","node","api"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SubramanyaKS/openweathermap-fetcher"
+  },
+  "bugs": {
+    "url": "https://github.com/SubramanyaKS/openweathermap-fetcher/issues"
+  },
+  "keywords": ["openweathermap","node","api","weather"],
   "author": "SubramanyaKS",
   "license": "MIT",
   "description": "A Wrapper for openweathermap API for node application.",
