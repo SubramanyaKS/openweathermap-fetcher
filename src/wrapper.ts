@@ -39,4 +39,12 @@ export class OpenWeatherMap {
   public fetchWeatherDataByCoordinates(latitude: string, longitude: string) {
     return this.apiCall(`/weather`, { lat: latitude, lon: longitude });
   }
+
+  public fetchForecastDataByCityName(cityName: string) {
+    return this.apiCall(`/forecast`, { q: cityName });
+  }
+
+  public fetchForecastDataByCoordinates(latitude: string, longitude: string) {
+    return this.apiCall(`/forecast`, { lat: latitude, lon: longitude });
+  }
 }

@@ -48,11 +48,17 @@ async function run() {
 
 ## Method
 
-1. ```js fetchWeatherDataByCityName(cityName:string)```
-The method will fetch the data by taking cityname as an argument and returns weather data.
+1. ``` fetchWeatherDataByCityName(cityName:string)```
+The method will fetch the weather data by taking cityname as an argument and returns weather data.
 
-2. ```js fetchWeatherDataByCoordinates(latitude:string,longitude:string)```
-This method will fetch the data by taking longitude and latitude as an argument and returns weather data.
+2. ``` fetchWeatherDataByCoordinates(latitude:string,longitude:string)```
+This method will fetch the weather data by taking longitude and latitude as an argument and returns weather data.
+
+3. ``` fetchForecastDataByCityName(cityName:string)```
+The method will fetch the forecast data by taking cityname as an argument and returns weather data.
+
+4. ``` fetchForecastDataByCoordinates(latitude:string,longitude:string)```
+This method will fetch the forecast data by taking longitude and latitude as an argument and returns weather data.
 
 ## Contribution
 
