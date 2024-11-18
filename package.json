@@ -1,0 +1,21 @@
+{
+  "name": "openweathermap-wrapper",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/types/index.d.ts",
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": ["openweathermap","node","api"],
+  "author": "SubramanyaKS",
+  "license": "MIT",
+  "description": "A Wrapper for openweathermap API for node application.",
+  "dependencies": {
+    "axios": "^1.7.7"
+  },
+  "devDependencies": {
+    "tslib": "^2.8.1",
+    "typescript": "^5.6.3"
+  }
+}

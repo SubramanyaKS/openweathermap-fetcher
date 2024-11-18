@@ -1,0 +1,1 @@
+export { OpenWeatherMap } from "./wrapper";
